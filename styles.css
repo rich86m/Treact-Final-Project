@@ -16,7 +16,7 @@ body {
 }
 
 .row {
-   width: 100%;
+  width: 100%;
   max-width: 1280px;
   margin: 0 auto;
 }
@@ -102,8 +102,8 @@ section {
   color: #7c8ba1;
   line-height: 1.625;
 }
-  
-  .btn {
+
+.btn {
   background-color: #6415ff;
   padding: 12px 32px;
   border: none;
@@ -383,7 +383,6 @@ FEATURES
 QUALITY WORK
 
 */
-
 
 #quality .row {
   display: flex;
